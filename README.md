@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there, I'm Sushma Shree Asthana 👋
 
-<!--
-**SushmaShreeAsthana/sushmashreeasthana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CS (AI Specialization) student at PSIT'27  
+💻 Passionate about Data Science, AI, and clean code  
+📊 I love building Python projects that tell stories through data  
+🧠 Currently learning: Machine Learning, Pandas, Matplotlib, and Streamlit  
+🌱 Goal: To build smart dashboards and recommendation systems  
 
-Here are some ideas to get you started:
+🛠️ Tools & Tech Stack:
+- Python 🐍
+- Pandas, NumPy, Matplotlib, Seaborn 📊
+- Scikit-learn 🧠
+- Streamlit 💡
+- Git + GitHub 🌍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects (coming soon!)
+- 🎬 Movie Recommender using TF-IDF 
+
+📫 How to reach me:
+📧 Email: 2k23.csai2310557@gmail.com  
+🔗 [LinkedIn: Sushma Shree Asthana](https://www.linkedin.com/in/sushma-shree-asthana-6313412a4)
+
+DOCUMENTING MY DATA AND AI JOURNEY!
+
+
+
+

@@ -31,6 +31,13 @@ I'm an undergraduate Computer Science student specializing in Artificial Intelli
 **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web & Backend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Data & Machine Learning**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -48,6 +55,10 @@ I'm an undergraduate Computer Science student specializing in Artificial Intelli
 
 ## Featured Projects
 
+### 📚 [BookishCorner](https://github.com/SushmaShreeAsthana/BookishCorner)
+A full-stack, portfolio-grade personal reading tracker (Goodreads/StoryGraph-style) with a cozy, forest-green cottagecore aesthetic. Built with React, Vite, and Tailwind CSS on the frontend, Django REST Framework on the backend, and PostgreSQL for data storage.
+`JavaScript`
+
 ### 🏠 [FlatFIT](https://github.com/SushmaShreeAsthana/FlatFIT)
 Rent & Flatmate Finder Platform — a full-stack, two-sided marketplace connecting room owners and tenants, featuring an AI-powered compatibility engine, real-time chat, and automated email notifications.
 `TypeScript`
@@ -56,9 +67,28 @@ Rent & Flatmate Finder Platform — a full-stack, two-sided marketplace connecti
 A content-based movie recommendation engine built using TF-IDF vectorization to suggest similar titles based on plot and metadata similarity.
 `Python`
 
+### 🧩 [LeetCode Solutions](https://github.com/SushmaShreeAsthana/LeetCode-Solutions)
+A growing collection of DSA problem solutions, organized topic-wise, tracking my ongoing practice and problem-solving progress.
+`Python`
+
 ### 🔢 [Number Guessing Game](https://github.com/SushmaShreeAsthana/Number-guessing-name)
 An interactive Python game where the player guesses a randomly generated number between 1 and 100, with feedback-driven guess narrowing.
 `Python`
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SushmaShreeAsthana&show_icons=true&theme=default&count_private=true&hide_border=true" alt="Sushma's GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=SushmaShreeAsthana&theme=default&hide_border=true" alt="Sushma's GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushmaShreeAsthana&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+> Note: these stat cards are served by a shared free widget service and may occasionally fail to load during high traffic. If a card ever shows broken, it usually resolves within a few hours.
 
 ---
 
